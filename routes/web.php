@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::resource ('/ ', 'HomeController');
+Route::resource ('/', 'HomeController');
 Route::get('/mkgarage', 'HomeController@index')->name('mkgarage');
 
 Auth::routes();
