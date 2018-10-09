@@ -1,0 +1,19 @@
+OVERVIEW
+ 	A CMS for garage dealer to manage their stock and customers’ work This project was built using Laravel 5.5 & vue. Features incorporated in the web application includes notification system to allow customers to enquire or book MOT on dates suitable for client. Included is also a lead generation form for the garage. 
+ 	Client wanted capabilities for customers to search tyres stocks 
+	BACKEND: the inventory with pricing and stock is stored.  Capability to edit and delete as required.
+
+DEVELOPMENT PROCESS CHOOSEN 
+	As a single developer on this project, the development process is broken down into 5 phases 
+		1. Discovery phase - looking into the product planning, features, inspiration behind the web app
+		2. Design - creating wireframe design leading to full design mockups
+		3. Code/development - implementing the designs and features defined in phase 1 & 2
+			-	coding frontend
+			- 	coding backend
+		4. QA - testing and quality assurance
+		5. Deployment - staging and live server
+	
+TECHNOLOGIES : laravel & vue, jquery, bootstrap & gimp, gitgraken
+	Laravel is a very popular PHP framework, easy to use and for building applications quickly.  It's popularity can also be attibuted to the built in support for Vue.js, a JavaScript library for developing impressive front-ends without wasting time in writing integrations for the components.
+
+LESSONS LEARNED
